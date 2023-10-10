@@ -1,0 +1,28 @@
+
+
+#Container{
+    height: 65vh;
+    width: 65vh;
+    background-color:green;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+
+}
+#Container div{
+    height: 600px;
+    width: 700px;
+}
+#div1{
+    background-color: brown;
+}
+#div2{
+    background-color: blueviolet;
+}
+#div3{
+    background-color: darkred;
+}
+#div4{
+    background-color: aqua;
+    background-image: url("/image/bird.jpeg");
+}
